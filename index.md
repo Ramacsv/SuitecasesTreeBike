@@ -1,4 +1,4 @@
-## Welcome To SuiteCase's Tree Bike, Page
+## Welcome To SuiteCase's Tree Bike Page
 
 ### *I want to tell you about my tree bike.*
 
