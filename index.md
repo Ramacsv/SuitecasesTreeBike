@@ -22,14 +22,13 @@ GPS helps to go different destinations and events._
 
 **My bike is ready**
 
-**Why I have tree bike is to get  nummy, it is a yummy food my friend chingi eats, that he keeps on the tree top.**
-
+**Why I have tree bike is to get  nummy, it is a yummy food my friend chingi eats, that he keeps on the tree top.**   
 The End
-
 ![Tree Bike Sketch](TreeBike.jpg)
 
-<b>Image Credits - Photo By SuiteCase Blue</b>
+<b>Image Credits - Sketch By SuiteCase</b>
 <hr style="border:2px solid blue">  
+
 *Hope you like the story.  
 Thank you for visiting my page.*
 
