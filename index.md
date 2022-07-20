@@ -30,7 +30,7 @@ GPS helps to go different destinations and events._
 ![Tree Bike Sketch](TreeBike0.png)
 
 <b>Image Credits - Sketch By SuiteCase</b>
-<hr style="border:5px solid red">  
+<hr style="border:5px solid green">  
 
 *Hope you like the story.  
 Thank you for visiting my page.*
