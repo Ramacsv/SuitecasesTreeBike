@@ -26,14 +26,11 @@ GPS helps to go different destinations and events._
 
 The End
 
+![Tree Bike Sketch](TreeBike.jpg)
+
+<b>Image Credits - Photo By SuiteCase Blue</b>
+<hr style="border:2px solid blue">  
 *Hope you like the story.  
 Thank you for visiting my page.*
-
-
-
-
-[Link](url) and ![Image](src)
-```
-
 
 
