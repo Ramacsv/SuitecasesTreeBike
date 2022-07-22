@@ -1,4 +1,5 @@
-## Welcome To SuiteCase's Tree Bike Page ![](suite-case-pict.png)
+## Welcome To SuiteCase's Tree Bike Page 
+![](suite-case-pict.png)
 
 ### *I want to tell you about my tree bike.*
 
