@@ -1,7 +1,6 @@
-## Welcome To SuiteCase's Tree Bike Page
+## Welcome To SuiteCase's Tree Bike Page ![](suite-case-pict.png)
 
 ### *I want to tell you about my tree bike.*
-
 
 _This is a bike that climbs up a tree.    
 I put some tree sap to the hinges so it has more grip to climb.  
