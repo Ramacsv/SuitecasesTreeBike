@@ -1,6 +1,7 @@
 ## Welcome To SuiteCase's Tree Bike page
 
 ![](suite-case-pict.png)
+![](suite-case-pict2.png)
 
 ### *I want to tell you about my tree bike.*
 
