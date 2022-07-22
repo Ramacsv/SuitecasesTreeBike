@@ -1,4 +1,4 @@
-## Welcome To SuiteCase's Tree Bike
+## Welcome To SuiteCase's Tree Bike page
 
 ![](suite-case-pict.png)
 
