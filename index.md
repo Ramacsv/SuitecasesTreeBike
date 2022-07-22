@@ -35,5 +35,3 @@ GPS helps to go different destinations and events._
 
 *Hope you like the story.  
 Thank you for visiting my page.*
-
-
